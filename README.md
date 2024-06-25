@@ -1,1 +1,2 @@
 # Cat_Vs_Dog_Classification
+I've completed a dog vs. cat classification project! Using a Convolutional Neural Network (CNN) architecture, along with max pooling and batch normalization, I improved accuracy and reduced training time. The model was trained on a dataset of images and can now accurately predict whether an uploaded image is of a dog or a cat, reduce loss to 0.0625 and achieve accuracy of 0.9783. This project has greatly enhanced my skills in image classification, deep learning, and data preprocessing.
